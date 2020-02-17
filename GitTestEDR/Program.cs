@@ -10,6 +10,8 @@ namespace GitTestEDR
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Hello world");
+            Console.WriteLine("git repo asd");
         }
     }
 }
